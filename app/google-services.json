@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384094042420",
+    "project_id": "techweek2023-97484",
+    "storage_bucket": "techweek2023-97484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384094042420:android:4ce67729805100acb18d61",
+        "android_client_info": {
+          "package_name": "com.example.techweek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3PGRXpJCvyaX-ulETCYXe6w4tyBsxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

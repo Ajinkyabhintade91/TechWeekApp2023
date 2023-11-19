@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Semaine de la technologie</string>
+    <string name="schedule" >CALENDRIER</string>
+    <string name="treasure_hunt">CHASSE AU TRÉSOR</string>
+    <string name="dummy" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+        ex ea commodo consequat. </string>
+    <string name="description">Description</string>
+    <string name="time">Temps:</string>
+    <string name="venue">Lieu:</string>
+    <string name="image_related_to_the_event">Image liée à l\'événement</string>
+    <string name="divider" translatable="false">Divider</string>
+    <string name="tech_week">semaine technologique</string>
+    <string name="year">2023</string>
+    <string name="event0_title">Céremonie d\'ouverture</string>
+    <string name="event1_title" >Conférence: Risques de cyberécurité dans l’intelligence artificielle  </string>
+    <string name="event2_title">Conférence: Microsoft et son centre de cyberdéfense - Comment débuter son SOC</string>
+    <string name="event3_title">Panel -Cyber guardiens : Explorez la Superpuissance de la Cybersécurité et des Données</string>
+    <string name="event4_title">Conférence: Sous le capot de la cybercriminalité. Le sujet traitera des différentes étapes de monétisation des organisations par les cybercriminels </string>
+    <string name="event5_title">Conférence: Intelligence artificielle : faites partie des innovateurs, pas des récalcitrants!</string>
+    <string name="event6_title">Conférence: Ali, une application concrète de l’IA moderne</string>
+    <string name="event7_title">Conférence: L\'IA générative, ami ou ennemi?</string>
+    <string name="event8_title">Panel - L\'Intelligence Artificielle : Possibilités et Défis</string>
+    <string name="event9_title">Journée carrière</string>
+    <string name="event10_title">Conférence: Mise en place du nouveau site web LCI educaiton</string>
+    <string name="event11_title">Conférence: Chatbot conversationnel pour le retail - Retail chatbot the story</string>
+    <string name="event12_title">Panel - L\'Entrepreneuriat Technologique et l\'Innovation</string>
+    <string name="event13_title">Conférence: Atelier "Réalité augmentée</string>
+    <string name="event14_title">Conférence: Leadership d\'opinion</string>
+    <string name="speaker0">Par: Abdelhak Fennouh, Mohamed Zeroug , Andrew Golden (Enseignants en informatique)</string>
+    <string name="speaker1">Conférencier: Dr. Jaafar Fehmi (UQAR)</string>
+    <string name="speaker2">Conférencier: Joël Qumper (Microsoft)</string>
+    <string name="panel1">Panelistes:Dr. Jaafar Fehmi (UQAR)\nBertrand Milot (Bradley &amp; Rollins)</string>
+    <string name="speaker3">Conférencier: Bertrand Milot (Bradley &amp; Rollins)</string>
+    <string name="speaker4">Conférencier: Alexandre Gervais (vooban)</string>
+    <string name="speaker5">Conférencier: Etienne Bolduc and Charles Cousyn (OPTANIA)</string>
+    <string name="speaker6">Conférencier: Guillaume Petitclerc (MOOV AI)</string>
+    <string name="panel2">Panelistes: Etienne Bolduc  et Charles Cousyn (OPTANIA),\nGuillaume Petitclerc  (MOOV AI),\nSebastien Bernard  (GOLOGIC) </string>
+    <string name="speaker7">Conférencier: Eric Briand (LCI Education)</string>
+    <string name="speaker8">Conférencier: Steve Desjarlais (Heyday AI)</string>
+    <string name="panel3">Panelistes: Steve Desjarlais (Heyday AI)\nJon Yu (Mythologi.es)\nEric Briand (LCI Education)</string>
+    <string name="speaker9">Conférencier: Jon Yu (Mythologi.es)</string>
+    <string name="speaker10">Conférencier: Jean-Luc SansCartier(Google Executive)</string>
+    <string name="timeslot0_1">Heure: 9h30 - 10h</string>
+    <string name="timeslot0">Heure: 9h - 10h</string>
+    <string name="timeslot1">Heure : 10h - 11h</string>
+    <string name="timeslot2">Heure : 11h - 12h</string>
+    <string name="timeslot3">Heure : 12h - 13h30</string>
+    <string name="timeslot3_1">Heure: 13h30 - 14h30</string>
+    <string name="timeslot4">Heure : 14h - 15h</string>
+    <string name="timeslot5">Heure : 10h - 12h30</string>
+    <string name="timeslot6">Horaires : 14h - 16h30</string>
+    <string name="venue1">Lieu : Jean Paul Morin</string>
+    <string name="venue2">Lieu : Plaza au 6e étage</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="speaker1bio">
+        Dr. Fehmi Jaafar is currently an Associate Professor at Quebec University at Chicoutimi and the Director of the Cyber
+        Defense Research Chair. Previously, he was a Researcher at the Computer Research Institute of Montreal and an Affiliate
+        Assistant Professor at the Department of Computer Science and Software Engineering at Concordia University.
+        \n\nHe did postdoctoral research studies at Queen’s University and Polytechnique Montreal. Dr. Fehmi Jaafar received
+        his PhD from the Department of Computer Science at Montreal University, Canada. He is interested in cybersecurity in
+        the Internet of Things, in the analysis and the improvement of the security and quality of software systems, and in
+        the application of machine learning techniques in cybersecurity.
+        \n\nHis researches have been published in top venues in computer sciences, including the Journal of Empirical Software
+        Engineering (EMSE) and the Journal of Software: Evolution and Process (JSEP). He established externally funded research
+        programs in collaboration with Defence Canada, Safety Canada, NSERC, MITACS, industrial partners, and foreign
+        universities.
+    </string>
+    <string name="speaker2bio">
+        Joel Quimper est spécialiste technique pour le secteur éducation de Microsoft Canada. Il travaille sur plusieurs
+        projets avec des universités partout au pays. Joel possède une vaste expérience dans la conception de solutions
+        logicielles prenant avantage du cloud. Il est passionné par la cybersécurité, la plateforme PaaS de Azure et le
+        développement autour de Microsoft 365. Avant de rejoindre Microsoft, il a dirigé l’équipe de développement dans
+        deux "startups" pendant 4 ans, il a travaillé 2 ans pour la Banque Nationale dans l’équipe marketing, 4 ans à la
+        Caisse de dépôt et placement et 10 ans pour IBM Canada dans plusieurs rôles toujours reliés au développement logiciel.
+    </string>
+    <string name="speaker3bio">
+        M. Bertrand Milot est Président et co-fondateur de l\’entreprise de cyberdéfense et d\’innovation Bradley &amp; Rollins.
+        M. Milot compte plus de 20 ans d\’expérience en cybersécurité ainsi qu\’en modélisation de menaces, de la surveillance
+        cybercriminelle et de la gouvernance de sécurité d\’entreprise. Il a également mené plusieurs cybers enquêtes et a géré
+        des crises majeures liées à des incidents de cybercriminalité, notamment dans le cas d\’attaques globale et compromissions
+        par rançongiciel (ransomware).
+        \n\nIl mène des analyses de risques complètes qui prennent autant en compte la sécurité physique de l\’information que sa
+        sécurité logique, ainsi que les vulnérabilités en ce qui a trait aux personnes, aux processus et aux technologies. Il s\’appuie
+        sur ses connaissances approfondies des technologies émergentes (IA, chiffrement quantique et architectures de chaînes de blocs),
+        de la cybercriminalité et du Deep/Darkweb pour rendre les organisations cyber-résilientes, capables de résister aux menaces
+        actuelles et futures.
+    </string>
+    <string name="speaker4bio">
+        Alexandre Gervais
+        \nResponsable du développement des affaires
+        \nExpertise : Intelligence artificielle, Vision
+        \nDiplômé de HEC Montréal en administration des affaires, Alexandre Gervais est un passionné de développement
+        économique et de nouvelles technologies. Particulièrement intéressé par le domaine manufacturier, Alexandre a fondé
+        en 2018 Haxio, une entreprise spécialisée en vision industrielle. En l\’espace de trois ans, la compagnie s\’est taillé
+        une place de choix sur le marché et a connu une croissance phénoménale.
+        \nEn 2021, Vooban a racheté Haxio et Alexandre s’est joint à l\'équipe à titre de responsable du développement des affaires,
+        où il peut mettre en oeuvre sa connaissance des milieux industriels et son expertise en intelligence artificielle et en
+        robotique.
+        \nChez Vooban, Alexandre prend soin d’accompagner les clients afin de capturer leurs besoins et de développer des solutions
+        innovantes, le tout dans le but de faciliter la mise en place de l’IA et d’automatiser les processus d’entreprise.
+    </string>
+    <string name="speaker5bio">
+        Etienne Bolduc
+        \nDirecteur, Intelligence Artificielle et Données @ Optania
+        \n\nEtienne dirige l\'équipe IA et Données chez Optania, spécialisé en intelligence artificielle appliquée à l\'éducation.
+        Fort de ses 20 ans d\’expérience diversifiée, il possède une solide expertise en développement logiciel et en livraison de
+        projets. Sa passion pour la technologie et son parcours professionnel lui confèrent une perspective unique dans le domaine
+        de l\’IA et ses applications.
+        \n\n\nCharles Cousyn, PhD
+        \nScientifique de données @ Optania
+        \n\nCharles Cousyn, titulaire d\'un doctorat en informatique depuis un an, est actuellement Data Scientist au sein de
+        l\'équipe IA et Données chez Optania. Fort d\'une rigueur scientifique acquise lors de son passage dans le monde de la
+        recherche, il se consacre avec enthousiasme à des projets d\'IA pour l\'éducation, cherchant à soutenir un maximum
+        d\'étudiants dans leur parcours académique.
+    </string>
+    <string name="speaker6bio">
+        Guillaume est cofondateur et VP Marketing de Moov AI. Communicateur naturel, il est dédié au rayonnement de la marque et
+        à la croissance de l\'entreprise. Il se fait un point d\'honneur à forger des partenariats solides et à élaborer des
+        stratégies assurant un positionnement stratégique optimal pour Moov AI. En tant que conférencier, Guillaume aime réveiller
+        les audiences sur l\'influence transformative de l\'IA dans les écosystèmes d\'affaires. Il a une vaste expertise en
+        marketing dans différentes industries ayant occupé le poste de directeur marketing chez GSoft (Workleap) et
+        Pyxis Technologies.
+    </string>
+    <string name="speaker9bio">
+        JON YU is the founder and CEO at MYTHOLOGI, a company that focuses on immersive and open-world storytelling through
+        creative technologies. An award winning digital artist, director and creative producer, he has been working with immersive
+        storytelling since 2010.
+        \n\nIn forming MYTHOLOGI and developing ELYSIUM, he has brought together his creative sensibilities alongside his passion
+        for research and design to explore the possibilities of new narrative and social systems through hybrid technologies
+        such as augmented reality. In developing ELYSIUM, a next gen no-code XR platform, he and his team are passionate about
+        making the intangible tangible through AR and spatial computing, to empower innovation driven by creative play.
+        \n\nHis purpose is to build meaningful experiences and to empower creativity by exploring possibilities of relational
+        dynamics, emergent behaviours, and interactive architectures.
+        \n\nWith over 12 years of experience in interdisciplinary media production, video production, as well as web and
+        interaction design, he has accumulated a unique blend of skills and expertise in technology innovation, systems design,
+        and XR development. He also has a background in neuroscience, and has published multiple papers. This experience drives
+        a methodological research approach alongside experimental artistic vision to create engaging and impactful experiences
+        that challenge the boundaries of reality.
+    </string>
+    <string name="description0">Cérémonie d\'ouverture de la TECH WEEK 2023</string>
+    <string name="description1">
+        In 2019, member countries of the Organisation for Economic Co-operation and Development (OECD), including Canada,
+        adopted the Artificial Intelligence Principles for responsible stewardship of trustworthy AI. Article 1.4 of the
+        AI Principles states that “AI systems should be robust, secure, and safe throughout their entire lifecycle.”
+        \nIn this context, several projects and initiatives setting emphasis on developing AI models that are secure in
+        the presence of Adverse Attacks.
+        \nIn this presentation, we will explore a set of examples of cyber attacks targeting AI, and we will discuss how
+        AI models can be more secure
+    </string>
+    <string name="description2">
+        Dans cette session, vous découvrirez comment les services Microsoft en cyber sécurité vous offrent une approche complète
+        et intégrée de la sécurité, des identités et de la cyber défense. Vous apprendrez comment Microsoft analyse et anticipe
+        les tendances et les évolutions des cyber menaces.
+    </string>
+    <string name="description3">
+        Lors de cette conférence, Mr. Milot développera les différentes étapes et process de monétisation
+        des organisations par les cybercriminels.
+    </string>
+    <string name="description4">
+        Saviez-vous que les entreprises pourraient accroître leur profitabilité de 38% d\’ici 2035 si elles intégraient de
+        l\’intelligence artificielle dans leurs processus? Pourtant, même si cette technologie offre un potentiel énorme,
+        la moitié des entreprises canadiennes ne l\’utilisent pas encore, ce qui nous place loin derrière les autres pays
+        membres de l\’Organisation de coopération et de développement économique (OCDE). Lors de cette conférence, découvrez
+        comment utiliser concrètement l\’intelligence artificielle pour augmenter votre rentabilité, votre productivité et
+        votre compétitivité.
+    </string>
+    <string name="description5">
+        Ali, une application concrète de l\’IA moderne
+        \n\nAli, c\’est un robot conversationnel qui aide les étudiants au collégial. À l\’intérieur, il est propulsé par un
+        moteur d\’IA responsable d\’interpréter l\’énoncé d\’un utilisateur et de lui proposer des ressources pertinentes.
+        \n\nSuite à l\’avènement des grands modèles de langages (Large Language Model ou LLM) il est devenu évident que
+        notre technologie existante nécessitait une mise à niveau. Nous avons donc remodelé le moteur de compréhension
+        d\’Ali de A à Z.
+        \n\nDans cette conférence, on explore avec vous les principaux aspects d\’un projet technologique en IA. On parle
+        de comment structurer un projet, quelles technologies sont utilisées, et quelles sont les compétences importantes
+        dans une équipe d\'IA.
+    </string>
+    <string name="description6">
+        Tout au long de cette conférence, je vous invite à découvrir le monde en pleine ébulition de l\'IA générative. Nous
+        verrons comment cette technologie innovante repousse déjà les limites du monde des affaires. À travers des exemples
+        actuels et concrets, vous comprendrez comment fonctionnent ces outils et nous échangerons sur les meilleures approches
+        pour intégrer l\'IA générative votre pratique ainsi que dans votre compagnie. Nous passerons évidemment en revue les
+        risques potentiels et comment les surmonter.
+    </string>
+    <string name="description9">
+        <b><big>Jon Yu | Founder + CEO of MYTHOLOGI</big></b> will be introducing several new no-code tools for 3D asset creation and present
+        simple production pipelines that allow for the radical democratization of immersive world-building. Together we will
+        explore AR\'s potential for storytelling and the gamification of experience in public spaces.
+        \nWhy would you want to do that? Well, he\'ll be going over that too. In the collaborative creation sessions,
+        participants in a team setting will conceive of a simple project. You will then create the content using a new
+        generation of 3D creation tools and then compose and present the work as a persistent layer on reality with ELYSIUM.
+    </string>
+</resources>
