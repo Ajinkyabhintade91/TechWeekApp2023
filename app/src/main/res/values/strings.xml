@@ -196,4 +196,6 @@
         participants in a team setting will conceive of a simple project. You will then create the content using a new
         generation of 3D creation tools and then compose and present the work as a persistent layer on reality with ELYSIUM.
     </string>
+    <string name="dummy_speaker">Speaker</string>
+    <string name="dummy_title">Title</string>
 </resources>
